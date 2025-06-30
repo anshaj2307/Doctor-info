@@ -40,7 +40,7 @@
   1. Clone the repository:
   ```bash
   git clone <repository-url>
-  cd psychology-practice-website
+  cd Dr-Serena-Blake
   ```
   
   2. Install dependencies:
