@@ -55,6 +55,6 @@
   
   4. Open [http://localhost:3000](http://localhost:3000) in your browser.
   
-  ## 📁 Project Structure
+  ## 📁 Project Aim
   
   **Built with ❤️ for mental health and wellness**
